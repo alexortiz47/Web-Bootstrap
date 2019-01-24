@@ -1,0 +1,15 @@
+.caja {
+	height: 100px;
+	background-color: black;
+	border: 5px solid white;
+}
+
+.caja2 {
+	height: 100px;
+	background-color: tomato;
+	border: 5px solid white;
+}
+
+.bg-dark {
+	background-color: black !important;
+}
